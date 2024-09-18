@@ -1,0 +1,6 @@
+.gitattributes
+venv/
+.DS_store
+fallData
+runs
+*.pt
